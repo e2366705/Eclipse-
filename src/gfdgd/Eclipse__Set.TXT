@@ -1,14 +1,17 @@
 
 
 
-#²é¿´°æ±¾ºÅ
+#æŸ¥çœ‹ç‰ˆæœ¬å·
 import sys
 print(sys.version)
 
-·½·¨¶ş£º½«workspace/.metadata/.plugins/org.eclipse.core.runtimeÖĞµÄ.settingsÎÄ¼ş¼Ğ¿½±´³öÀ´£¬
- ÀïÃæ¾ÍÊÇËùÓĞµÄÅäÖÃÎÄ¼ş£¬ĞÂ½¨¹¤×÷¿Õ¼äµÄÊ±ºò½«¸Ã.settingsÎÄ¼ş¼ĞÌæ»»µôĞÂ¹¤×÷¿Õ¼äÖĞµÄ.settingsÎÄ¼ş¼Ğ¼´¿É¡£
- £¨ÓĞÍøÓÑÊÇ½«.plugingsÎÄ¼ş¼ĞÌæ»»£¬
- µ«ÊÇ.plugingsÎÄ¼ş¼ĞÌ«´óÁË£¬Êµ¼ÊÉÏ¾ÍÊÇÌæ»».settingsÎÄ¼ş¼Ğ£¬.settingsÖ»ÓĞ¼¸°Ùk¡££©
-
-
-
+æ–¹æ³•äºŒï¼šå°†workspace/.metadata/.plugins/org.eclipse.core.runtimeä¸­çš„.settingsæ–‡ä»¶å¤¹æ‹·è´å‡ºæ¥ï¼Œ
+ é‡Œé¢å°±æ˜¯æ‰€æœ‰çš„é…ç½®æ–‡ä»¶ï¼Œæ–°å»ºå·¥ä½œç©ºé—´çš„æ—¶å€™å°†è¯¥.settingsæ–‡ä»¶å¤¹æ›¿æ¢æ‰æ–°å·¥ä½œç©ºé—´ä¸­çš„.settingsæ–‡ä»¶å¤¹å³å¯ã€‚
+ ï¼ˆæœ‰ç½‘å‹æ˜¯å°†.plugingsæ–‡ä»¶å¤¹æ›¿æ¢ï¼Œ
+ ä½†æ˜¯.plugingsæ–‡ä»¶å¤¹å¤ªå¤§äº†ï¼Œå®é™…ä¸Šå°±æ˜¯æ›¿æ¢.settingsæ–‡ä»¶å¤¹ï¼Œ.settingsåªæœ‰å‡ ç™¾kã€‚ï¼‰
+ 
+ 
+ 
+ æ¯”å¦‚  :  
+ ç°åœ¨æˆ‘çš„Eclipseçš„è®¾ç½®é…ç½®ä¿å­˜åœ¨ : 
+C:\DiSanFangSoftWoreYXBYXBYXBYxb\AboutPythonPPPPPP\Eclipse IDE for Java EE Developers__2\eclipse__Py_2__workspace\.metadata\.plugins\org.eclipse.core.runtime
