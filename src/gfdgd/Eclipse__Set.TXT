@@ -17,5 +17,5 @@ print(sys.version)
 C:\DiSanFangSoftWoreYXBYXBYXBYxb\AboutPythonPPPPPP\Eclipse IDE for Java EE Developers__2\eclipse__Py_2__workspace\.metadata\.plugins\org.eclipse.core.runtime
 
 
-Eclipse设置Debug断点的快捷键 : 
+Eclipse设置Debug断点的快捷键 (Eclipse系统默认的) : 
 设置断点：在该行最前面边框双击  或快捷键：Ctrl+Shift+B
