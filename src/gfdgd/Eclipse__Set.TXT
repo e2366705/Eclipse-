@@ -19,3 +19,11 @@ C:\DiSanFangSoftWoreYXBYXBYXBYxb\AboutPythonPPPPPP\Eclipse IDE for Java EE Devel
 
 Eclipse设置Debug断点的快捷键 (Eclipse系统默认的) : 
 设置断点：在该行最前面边框双击  或快捷键：Ctrl+Shift+B
+
+
+
+2.改PyDev注释颜色
+PyDev插件安装上后，默认注释的颜色是灰色，看注释非常费力，于是又找到改注释颜色办法。
+windows->peferences->PyDev->Editor
+Appearance color options:
+选择Comments，在color里选择颜色，然后apply
