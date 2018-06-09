@@ -28,7 +28,11 @@ https://blog.csdn.net/lollipop_sun/article/details/79501693
 教程链接 :
 https://blog.csdn.net/lyj_viviani/article/details/70568434/
 
+https://www.lfd.uci.edu/~gohlke/pythonlibs/
+
 https://www.2cto.com/kf/201708/674745.html
+  
+https://sourceforge.net/projects/pywin32/files/pywin32/
   
 https://cuiqingcai.com/912.html
   
