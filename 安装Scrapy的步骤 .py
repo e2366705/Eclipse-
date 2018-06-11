@@ -49,6 +49,9 @@ http://study.163.com/course/courseLearn.htm?courseId=1003666043#/learn/video?les
   参考下面链接的教程 !!!!  
   http://f61be319.wiz03.com/share/s/3S6-cp1BIQ952yXKyj02PIM41m-sg71NLkym2OKzJQ3mWoHn
     
+    视频讲解最轻松 : 
+    http://study.163.com/course/courseLearn.htm?courseId=1004933008#/learn/video?lessonId=1050692269&courseId=1004933008
+    
     1 pip install lxml 
     
     2 pip install zope.interface
@@ -64,4 +67,7 @@ http://study.163.com/course/courseLearn.htm?courseId=1003666043#/learn/video?les
       注意: 需要把pythoncom36.dll和pywintypes36.dll拷贝到 C://windows/system32路径:C:\Users\Administrator\AppData\Local\Programs\Python\Python36\Lib\site-packages\pywin32_system32
     
     6 pip install scrapy
+    
+    最后 : 
+    打开cmd --> scrapy startproject  xxxxxx [创建名为xxxxx的Scrapy项目]
       
