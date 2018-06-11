@@ -43,3 +43,25 @@ https://www.lfd.uci.edu/~gohlke/pythonlibs/
   
   网页云课堂 的 教程 :
 http://study.163.com/course/courseLearn.htm?courseId=1003666043#/learn/video?lessonId=1004289631&courseId=1003666043
+  
+  
+  妈的  终于安装好了 !!!!!!!!
+  参考下面链接的教程 !!!!  
+  http://f61be319.wiz03.com/share/s/3S6-cp1BIQ952yXKyj02PIM41m-sg71NLkym2OKzJQ3mWoHn
+    
+    1 pip install lxml 
+    
+    2 pip install zope.interface
+    
+    3 pip install wheel
+      pip install ad3-2.1-cp36-cp36m-win_amd64.whl   [每个人的电脑不一样 型号也不一样 !!!]- [我的是 : Twisted-18.4.0-cp36-cp36m-win32.whl]
+      下载链接 : https://www.lfd.uci.edu/~gohlke/pythonlibs/
+      
+    4 pip install pyOpenSSL
+    
+    5 pip install ad3-2.1-cp36-cp36m-win_amd64.whl   [每个人不一样 !!  ]
+      链接 : https://pypi.org/project/pypiwin32/
+      注意: 需要把pythoncom36.dll和pywintypes36.dll拷贝到 C://windows/system32路径:C:\Users\Administrator\AppData\Local\Programs\Python\Python36\Lib\site-packages\pywin32_system32
+    
+    6 pip install scrapy
+      
